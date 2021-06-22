@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hreday Sagar Chakraborty. I am a software Engineer (Android Platform) currently working at 1Touch Bd.
+- 👋 Hi, I’m Hreday Sagar Chakraborty. I am a Software Engineer (Android & IOS Platform) currently working at 1Touch Bd sister concern of Polock Group.
 - 👀 I’m interested in Android Apps Development,Java,Kotlin,Flutter...
 - 🌱 I’m currently learning Android with Kotlin
 - 💞️ I’m looking to collaborate on new projects
