@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hreday Sagar Chakraborty. I am a Software Engineer (Android & IOS Platform) currently working at 1Touch Bd sister concern of Polock Group.
 - 👀 I’m interested in Android & Ios Apps Development,Java,Kotlin,Flutter...
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently working with Flutter 
 - 💞️ I’m looking to collaborate on new projects
 - My Play Store Link:https://play.google.com/store/apps/developer?id=LMGI+TECH
 - 📫 How to reach me hredaysagar@gmail.com/ hredaychakraborty@gmail.com
